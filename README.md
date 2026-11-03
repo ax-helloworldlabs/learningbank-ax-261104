@@ -4,7 +4,7 @@
 
 - 일정: 2026년 11월 4일(수)–5일(목) 09:00–18:00 (점심 12:00–13:00)
 - 장소: 서울 송파구 법원로 114, 문정엠스테이트 A동 1006~1007호 회의실 (러닝뱅크 방문 교육)
-- 실습 도구: Claude Cowork — **Claude 계정 지원 없음** (수강생이 직접 준비)
+- 실습 도구: Claude Cowork — Claude 유료 계정 지원, 계정 정보는 교육 당일 제공
 
 ## 배포 방법 (GitHub Pages)
 
@@ -17,11 +17,11 @@
 | 고칠 내용 | 파일 · 위치 |
 |---|---|
 | 날짜·시간·장소 요약 띠 | `index.html` `.event-strip` |
-| 준비물 카드(신분증 / 노트북·충전기 / Claude 계정) | `index.html` `#preparation` `.prep-card` |
+| 준비물 카드(신분증 / 개인 노트북 / 노트북 충전기) | `index.html` `#preparation` `.prep-card` |
 | 일정 카드·장소·지도 링크 | `index.html` `#place` |
 | 주소 복사 버튼의 주소 | `script.js` 첫 줄 `const address` |
 | 2일 커리큘럼(DAY 1: 모듈 1–4, DAY 2: 모듈 5–7) | `index.html` `#curriculum` `.day-label`, `<details class="module">` |
-| Claude 계정 미지원 안내 띠 | `index.html` `#support` |
+| Claude 유료 계정 지원·계정 정보 당일 제공 안내 | `index.html` `#support` |
 | 이 페이지 전용 스타일(2일 표시, DAY 라벨) | `index.html` `<head>` 안 `<style>` |
 
 ## 확인할 정보
